@@ -1,1 +1,1 @@
-# Assignment-6-PW-Skill
+This Is PW Assignment it cover javascript Topic.
